@@ -1,6 +1,6 @@
 # stego.py
-## By       Adam Good
-## Updated: 03-03-17
+* By       Adam Good
+* Updated: 03-03-17
 
 ## Description:
 Just a simple steganography script. It can hide files in an image
