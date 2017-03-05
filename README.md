@@ -1,14 +1,14 @@
-## stego.py
-# By Adam Good
+# stego.py
+## By       Adam Good
+## Updated: 03-03-17
 
-# Description:
-Just a simple steganography script. It currently can hide a message into the pixels of an image.
-Will improve later.
+## Description:
+Just a simple steganography script. It can hide files in an image
 
-# Recent Update:
-Added support for simple command line arguments
+## Recent Update:
+Pretty much rewrote most of it with better functionality and bug fixes
+It can now hide any binary data (AKA any file type)
 
-# Future Updates
-* Clean the code
-* Make it able to store any stort of payload, not just text
-* Update comments so that they're easier to read and understand
+## Future Updates
+*   Clean the code
+*   Update comments so that they're easier to read and understand
